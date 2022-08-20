@@ -1,7 +1,7 @@
 # GESTIUNEA UNUI MAGAZIN DE PRODUSE COSMETICE - PROIECT SGBD ORACLE
 
 *TEHNOLOGIILE UTILIZATE:* <br />
-֍ Limbajul de programare – **PL/SQL** <br />
+֍ Limbajele de programare – **SQL, PL/SQL** <br />
 ֍ Mediul de dezvoltare – **APEX Oracle** <br />
 
 *CERINȚE:* <br />
