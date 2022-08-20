@@ -6,7 +6,7 @@
 
 *CERINȚE:* <br />
 ֍ descrierea problemei și prezentarea schemei conceptuale a tabelelor (de preferabil schema de semestrul trecut, completată) <br />
-֍ interacțiunea cu serverul Oracle prin intermediul comenzilor SQL (LDD şi LMD): folosirea lui execute immediate, particularități cu privire la folosirea comenzii select precum și a funților la nivel de rând respectiv de grup <br />
+֍ interacțiunea cu serverul Oracle prin intermediul comenzilor SQL (LDD şi LMD): folosirea lui EXECUTE IMMEDIATE, particularități cu privire la folosirea comenzii SELECT, precum și a funcțiilor la nivel de rând, respectiv de grup <br />
 ֍ structuri alternative și repetitive <br />
 ֍ tratarea excepțiilor <br />
 ֍ gestionarea cursorilor: impliciți și expliciți (cu și fără parametri) <br />
